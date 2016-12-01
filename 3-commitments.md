@@ -1,8 +1,8 @@
-Freescribe Media Foundation promotes practice of traditional scribal arts, the transmission of ancient and significant modern texts, and the study of textual criticism.  We also produce educational materials to help our students acheive success in using modern information technology.
+## Freescribe Media Foundation ## promotes practice of traditional scribal arts, the transmission of ancient and significant modern texts, and the study of textual criticism.  We also produce educational materials to help our students acheive success in using modern information technology.
 
 Anyone may apply to receive tutoring from our volunteer mentors, regardless of race, class, creed, religion, age, gender, expertise, ability, disability, language, or ability to pay.  We receive students on a need-blind basis, and offer work-study in lieu of payment.  
 
-All mentors, tutors, and students share our common interest and committments:
+All mentors, tutors, and students 
 
 
 Bless the Name; Do not make graven images or bow down to worship them
